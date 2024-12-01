@@ -25,7 +25,7 @@ The analysis is based on raw pizza sales data collected from web. The project us
 -
 *The total revenue generated from pizza sales is "$817860.05"
 -
-*The most pizza category ordered based on quantity is "Classic(14888)"
+*The pizza category ordered the most based on quantity is "Classic (14,888)."
 -
 
 
