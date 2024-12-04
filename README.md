@@ -4,7 +4,7 @@
     *The files included are order_details, orders, pizza_types, pizzas.* 
 
 *Project Overview:
-The analysis is based on raw pizza sales data collected from web. The project uses MySQL to perform data transformations,data cleaning,  aggregate sales, and generate insights based on specific business questions.
+The analysis is based on raw pizza sales data collected from web. The project uses MySQL to perform data transformations,data cleaning,  aggregate sales and generate insights based on specific business questions.
 
 *Key Questions Addressed:
 
